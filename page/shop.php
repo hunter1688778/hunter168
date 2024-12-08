@@ -1,0 +1,1 @@
+<a href="http://localhost/?page=redeem"><img src="https://img2.imgbiz.com/imgbiz/wen.png" alt="wen" border="0"></a>

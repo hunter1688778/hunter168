@@ -1,6 +1,6 @@
 <?php
 session_start();
-$host = "localhost";
+$host = "https://hunter1688778.github.io/";
 $db_user = "root";
 $db_pass = "";
 $db =  "hunter168";
